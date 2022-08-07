@@ -77,9 +77,7 @@ Currently living in :kr: **Korea Seoul**.
 <a href="https://p-story-js.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/Tstory-83B81A?style=flat-square&logo=Tv Time&logoColor=white"/>
 </a>
-<a href="https://p-story-js.tistory.com/" target="_blank">
-<img src="https://img.shields.io/badge/Tstory-83B81A?style=flat-square&logo=Tv Time&logoColor=white"/>
-</a>
+
 </div>
 
 </br>
