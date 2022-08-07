@@ -77,15 +77,16 @@ Currently living in :kr: **Korea Seoul**.
 
 
 
-### Contact Me
+## Contact Me
 
-<div>
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-<a href="https://p-story-js.tistory.com/" target="_blank">
-<img src="https://img.shields.io/badge/Tstory-83B81A?style=flat-square&logo=Tv Time&logoColor=white"/>
-</a>
 
-</div>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:kimsh1691@gmail.com)
+[![Blog Badge](http://img.shields.io/badge/blog-1BB91F?style=flat-square&logo=Telegraph&link=https://soo-vely-dev.tistory.com/)](https://p-story-js.tistory.com/)
+
+
+
+
+
 
 </br>
 </br>
