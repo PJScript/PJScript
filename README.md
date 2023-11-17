@@ -9,6 +9,37 @@ Currently living in :kr: **Korea Seoul**.
 ## Study
 현재 제가 공부중이거나 관심있는 항목들 입니다
 
+ 
+
+ <span>
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=Spring&logoColor=white"/>
+</span>
+
+
+ <span>
+<img src="https://img.shields.io/badge/dterraform-844FBA?style=flat-square&logo=dterraform&logoColor=white"/>
+</span>
+
+
+ <span>
+<img src="https://img.shields.io/badge/apachekafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+</span>
+
+
+
+ <span>
+<img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+</span>
+
+
+
+
+<span>
+<img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+</span>
+ <span>
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</span>
  <span>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 </span>
@@ -17,6 +48,9 @@ Currently living in :kr: **Korea Seoul**.
 </span>
  <span>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntellijIDEA&logoColor=white"/>
+</span>
+ <span>
+<img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
 </span>
 
 
@@ -71,15 +105,17 @@ Currently living in :kr: **Korea Seoul**.
 <div>
 <div>
 
-<span>
+
+
+<div>
+ <span>
 <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </span>
-
-
-
-
-
-
+ <span>
+<img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
+</span>
+ 
+</div> 
 
 
 </br>
