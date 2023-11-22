@@ -9,7 +9,13 @@ Currently living in :kr: **Korea Seoul**.
 ## Study
 현재 제가 공부중이거나 관심있는 항목들 입니다
 
- 
+
+  <span>
+<img src="https://img.shields.io/badge/rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+</span>
+  <span>
+<img src="https://img.shields.io/badge/tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white"/>
+</span>
 
  <span>
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=Spring&logoColor=white"/>
