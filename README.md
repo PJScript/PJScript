@@ -3,7 +3,7 @@
 
 
 
-![다운로드](https://github.com/PJScript/PJScript/assets/74460103/8fe85bbe-c17b-4a6e-b3a1-f03ec133529d)
+
 
 ## Study
 현재 제가 공부중이거나 관심있는 항목들 입니다
@@ -92,13 +92,6 @@
 
 
 
-<span>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-</span>
-
-<span>
-<img src="https://img.shields.io/badge/React Zustand-840010?style=flat-square&logo=React&logoColor=white"/>
-</span>
 
 </div>
  
@@ -164,6 +157,7 @@
 </br>
 </br>
 
+![다운로드](https://github.com/PJScript/PJScript/assets/74460103/8fe85bbe-c17b-4a6e-b3a1-f03ec133529d)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PJScript)](https://github.com/anuraghazra/github-readme-stats)
 
