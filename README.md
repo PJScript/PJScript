@@ -2,9 +2,8 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Junsu%20Park&fontSize=90) -->
 
-Hello I'm Junsu Park, aiming to be a full stack developer from :kr: **Korea**. 
-<br />
-Currently living in :kr: **Korea Seoul**.
+안녕하세요
+
 
 ## Study
 현재 제가 공부중이거나 관심있는 항목들 입니다
