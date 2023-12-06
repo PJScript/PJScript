@@ -51,9 +51,7 @@
 <span>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=Nestjs&logoColor=white"/>
 </span>
- <span>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntellijIDEA&logoColor=white"/>
-</span>
+
  <span>
 <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
 </span>
@@ -63,9 +61,7 @@
 ## Tech Stack
 
 ### Language
-<span>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
-</span>
+
 
 <span>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
