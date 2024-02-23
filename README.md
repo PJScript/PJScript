@@ -146,7 +146,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:kimsh1691@gmail.com)
-[![Blog Badge](http://img.shields.io/badge/blog-1BB91F?style=flat-square&logo=Telegraph&link=https://soo-vely-dev.tistory.com/)]([https://p-story-js.tistory.com](https://jobey.tistory.com/)/)
+[![Blog Badge](http://img.shields.io/badge/blog-1BB91F?style=flat-square&logo=Telegraph&link=https://soo-vely-dev.tistory.com/)](https://jobey.tistory.com/)
 
 
 
