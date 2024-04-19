@@ -9,22 +9,10 @@
 현재 제가 공부중이거나 관심있는 항목들 입니다
 
 
-  <span>
-<img src="https://img.shields.io/badge/rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-</span>
-  <span>
-<img src="https://img.shields.io/badge/tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white"/>
-</span>
 
  <span>
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=Spring&logoColor=white"/>
 </span>
-
-
- <span>
-<img src="https://img.shields.io/badge/dterraform-844FBA?style=flat-square&logo=dterraform&logoColor=white"/>
-</span>
-
 
  <span>
 <img src="https://img.shields.io/badge/apachekafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
@@ -37,14 +25,6 @@
 </span>
 
 
-
-
-<span>
-<img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-</span>
- <span>
-<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</span>
  <span>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 </span>
@@ -164,30 +144,9 @@
 
 
 
-
-
-</br>
-</br>
-</br>
-
-![다운로드](https://github.com/PJScript/PJScript/assets/74460103/8fe85bbe-c17b-4a6e-b3a1-f03ec133529d)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PJScript)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-
-
-</br>
-</br>
-</br>
-<!-- <div align=center>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPJScript&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> -->
-</div>
-
-
- 
 
 
 
