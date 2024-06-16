@@ -14,15 +14,7 @@
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=Spring&logoColor=white"/>
 </span>
 
- <span>
-<img src="https://img.shields.io/badge/apachekafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-</span>
 
-
-
- <span>
-<img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-</span>
 
 
  <span>
@@ -33,7 +25,7 @@
 </span>
 
  <span>
-<img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/rust-000000?style=flat-square&logo=rust&logoColor=white"/>
 </span>
 
 
